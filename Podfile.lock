@@ -1,0 +1,21 @@
+PODS:
+  - OpenSSL (1.0.1j)
+
+DEPENDENCIES:
+  - OpenSSL (from `https://github.com/bither/OpenSSL.git`)
+
+EXTERNAL SOURCES:
+  OpenSSL:
+    :git: https://github.com/bither/OpenSSL.git
+
+CHECKOUT OPTIONS:
+  OpenSSL:
+    :commit: b7ff9ed0245e2b5b1a212a1e86131487df4fc518
+    :git: https://github.com/bither/OpenSSL.git
+
+SPEC CHECKSUMS:
+  OpenSSL: 6cc604cf322dabb4695f3b7be882a47ed44a8146
+
+PODFILE CHECKSUM: 1b06a438bb4438a05a54b253c230a365e4ed19d8
+
+COCOAPODS: 1.5.3
